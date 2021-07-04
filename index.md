@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
@@ -100,7 +99,7 @@
   <hr>
   <h3>Education</h3>
   <ul>
-    <li>B.Tech - Electronics and Telecommunication Engineering <a href="http://www.nitrr.ac.in/">NIT Rapur.</a> </li>
+    <li>B.Tech - Electronics and Telecommunication Engineering <a href="http://www.nitrr.ac.in/" target="_blank">NIT Rapur.</a> </li>
     <ul>
       <li>CGPA - 7.5</li>
     </ul>
